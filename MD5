@@ -1,9 +1,9 @@
-2207da9de4bb0279ff0b989328a28a5c *DESCRIPTION
+4c269675caf1c5bbab0d8508649e0093 *DESCRIPTION
 55b5f827796d0ea6eaef0a176b5ce187 *NAMESPACE
-825b7a45c3d856e790567ddad841c4b3 *NEWS
+ea5c59321ada0e3358eafc2aa5f31091 *NEWS
 cc7c33dae8a89455b9de2b7e25bd4eb7 *R/AlcesteSource.R
-8e0a5c89f3beb7776bcf88fdac4154bf *R/readAlceste.R
+48776d777edd62ca9da23f1d62a190d2 *R/readAlceste.R
 0f796d7655dee0b80a644ce11d4513a0 *inst/texts/alceste_test.txt
-9eb0cc89002dad04920367682fa63310 *man/AlcesteSource.Rd
-4d0e9856de3c3f92af11b06ccb8be640 *man/readAlceste.Rd
+95d8012e09ad9ada76d5bd22d6576189 *man/AlcesteSource.Rd
+32e1506bef358f7c3849ae7a4948f755 *man/readAlceste.Rd
 435183e35d9ae57bc2ea8fb03180affb *man/tm.plugin.alceste-package.Rd
